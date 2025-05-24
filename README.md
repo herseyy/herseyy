@@ -3,4 +3,4 @@
 ☂️ 
 
 #### Lil' Something Something
-- [projects](https://github.com/herseyy/herseyy/blob/main/projects.md)
+- [Projects](https://github.com/herseyy/herseyy/blob/main/projects.md)
